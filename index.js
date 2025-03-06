@@ -5,3 +5,5 @@
 // cuando el finalice los tres prompt entonces
 //el programa verificara si la palabra es correcta o no, si si lo es entonces 
 // se sumara 1 al contador
+
+
